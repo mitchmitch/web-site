@@ -1,0 +1,133 @@
+ul {
+	color: red;
+	background-color: black;
+}
+
+nav li {
+	list-style: none;
+	display: inline-block;
+	padding: 20px
+}
+.devil {
+	text-align: center;
+	font-size: 100px;
+	color: red;
+	background-color: darkgray
+}
+
+.jj {
+	display: flex;
+}
+.doors {
+
+	width: 80%;
+	background-image: url(../images/door.jpg);
+	background-size: cover;
+	height: 100%;	
+}
+.leader {
+	width: 30%;
+	background-image: url(../images/leader.jpg);
+	background-size: cover;
+	height: 100%;
+}
+
+
+.gg {
+	display: flex;
+}
+.dog {
+
+	width: 80%;
+	background-image: url(../images/hound.jpg);
+	background-size: cover;
+	height: 100%;	
+}
+.thing {
+	width: 30%;
+	background-image: url(../images/hunter.jpg);
+	background-size: cover;
+	height: 100%;
+}
+
+
+.kk {
+	display: flex;
+}
+.demon3 {
+
+	width: 80%;
+	background-image: url(../images/demon.jpg);
+	background-size: cover;
+	height: 100%;	
+}
+.lear {
+	width: 30%;
+	background-image: url(../images/demon1.jpg);
+	background-size: cover;
+	height: 100%;
+}
+
+.dd {
+	display: flex;
+}
+.object {
+
+	width: 80%;
+	background-image: url(../images/demonsh.jpg);
+	background-size: cover;
+	height: 100%;	
+}
+.jug {
+	width: 50%;
+	background-image: url(../images/object.jpg);
+	background-size: cover;
+	height: 100%;
+}
+
+.gu {
+	display: flex;
+}
+.object {
+
+	width: 80%;
+	background-image: url(../images/demonsh.jpg);
+	background-size: cover;
+	height: 100%;	
+}
+.jug {
+	width: 50%;
+	background-image: url(../images/object.jpg);
+	background-size: cover;
+	height: 100%;
+}
+
+.di {
+	display: flex;
+}
+.deablo {
+
+	width: 80%;
+	background-image: url(../images/deablo.jpg);
+	background-size: cover;
+	height: 100%;	
+}
+.lear5 {
+	width: 30%;
+	background-image: url(../images/frog.jpg);
+	background-size: cover;
+	height: 100%;
+}
+
+.an {
+	display: flex;
+}
+.angle {
+
+	width: 100%;
+	background-image: url(../images/angle.jpg);
+	background-size: cover;
+	height: 500px;	
+}
+
+
